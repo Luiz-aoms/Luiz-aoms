@@ -14,7 +14,7 @@
     <td><b>Back-end</b></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs,py,js,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,py,js,tS" /></td>
     <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
   </tr>
   <tr>
