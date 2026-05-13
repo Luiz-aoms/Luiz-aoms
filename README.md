@@ -15,14 +15,14 @@
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=cs,py,js,tS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,django" /></td>
   </tr>
   <tr>
     <td><b>Frontend & Mobile</b></td>
     <td><b>Bancos de Dados</b></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,django,flask,react,flutter" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,flask,react,flutter" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,supabase" /> <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </td>
   </tr>
