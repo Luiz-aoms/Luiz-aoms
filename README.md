@@ -4,7 +4,13 @@
   Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis.
 </p>
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-aoms&show_icons=true&theme=dracula&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-aoms&theme=dracula" />
+</p>
 
 <h2 align="center">Tecnologias e Stack</h2>
 
@@ -47,18 +53,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luiz-aoms/Luiz-aoms/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luiz-aoms/Luiz-aoms/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-aoms&show_icons=true&theme=dracula&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-aoms&theme=dracula" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luiz-aoms&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 <p align="center">
