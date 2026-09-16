@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-aoms&show_icons=true&theme=dracula&hide_border=true"/>
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-aoms&theme=dracula" />
 </p>
 
