@@ -4,10 +4,6 @@
   Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis.
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-aoms&theme=dracula" />
-</p>
-
 <h2 align="center">Tecnologias e Stack</h2>
 
 <table align="center" border="0">
@@ -16,7 +12,7 @@
     <td><b>Back-end</b></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs,py,js,tS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,py,js,ts" /></td>
     <td><img src="https://skillicons.dev/icons?i=dotnet,django" /></td>
   </tr>
   <tr>
@@ -24,7 +20,7 @@
     <td><b>Bancos de Dados</b></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,flask,react,flutter" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,flutter" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,supabase" /> <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </td>
   </tr>
